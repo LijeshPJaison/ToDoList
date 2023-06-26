@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 50%;
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 27%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 40%;
+    margin-top: 3%;
+    background-color: red;
+}
+
+.error {
+    color: red;
+}
+
+.divtodo {
+    border: 2px solid black;
+    height: 100%;
+}
